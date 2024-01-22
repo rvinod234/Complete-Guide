@@ -1,4 +1,4 @@
-# Complete Guide for JAVA Preperation
+# Complete Guide for JAVA 
 ### Java Basics
   1. OOPS
   2. SOLID Principles
